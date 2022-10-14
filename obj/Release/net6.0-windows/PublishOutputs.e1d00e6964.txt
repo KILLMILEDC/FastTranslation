@@ -1,0 +1,6 @@
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\resources\images\icon.ico
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\FT Edited version.exe
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\FT Edited version.dll
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\FT Edited version.deps.json
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\FT Edited version.runtimeconfig.json
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\FT Edited version.pdb

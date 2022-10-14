@@ -1,0 +1,29 @@
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\net6.0-windows\FT Edited version.exe
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\net6.0-windows\FT Edited version.deps.json
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\net6.0-windows\FT Edited version.runtimeconfig.json
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\net6.0-windows\FT Edited version.dll
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\net6.0-windows\FT Edited version.pdb
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.csproj.AssemblyReference.cache
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\App.g.cs
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version_MarkupCompile.cache
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version_MarkupCompile.lref
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.g.resources
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.AssemblyInfoInputs.cache
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.AssemblyInfo.cs
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.csproj.CoreCompileInputs.cache
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.dll
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\refint\FT Edited version.dll
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.pdb
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.genruntimeconfig.cache
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\ref\FT Edited version.dll
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version_Content.g.cs
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\AboutWindow.g.cs
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\AboutWindow.baml
+C:\Data\VsC#Programs\FT\FT Edited version\bin\Debug\net6.0-windows\resources\images\icon.ico
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\Style.baml
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\App.baml
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT_Edited_version.Properties.Resources.resources
+C:\Data\VsC#Programs\FT\FT Edited version\obj\Debug\net6.0-windows\FT Edited version.csproj.GenerateResource.cache

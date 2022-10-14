@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "N2j2zQi8h/Tzg9UFAY6S5DWSPfib0OngMR3xboDYmzgUIiu1bXWWgnPir7cIWR+ofgNQ3Zizai0ih6ef3tTuQA==",
+  "success": true,
+  "projectFilePath": "C:\\Data\\VsC#Programs\\FT\\FT Edited version\\FT Edited version.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KILLMIL\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.8\\microsoft.netcore.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\KILLMIL\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.8.nupkg.sha512",
+    "C:\\Users\\KILLMIL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.8\\microsoft.aspnetcore.app.runtime.win-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

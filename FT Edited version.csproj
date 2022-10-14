@@ -1,0 +1,49 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <RootNamespace>FT_Edited_version</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <SignAssembly>False</SignAssembly>
+    <UseWindowsForms>True</UseWindowsForms>
+    <Authors>KB</Authors>
+    <Company>KILLMILEDC ORG</Company>
+    <StartupObject>FT_Edited_version.App</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="resources\fonts\PRU.ttf" />
+    <None Remove="resources\fonts\SourceHanSans-Normal.ttc" />
+    <None Remove="resources\images\favicon.ico" />
+    <None Remove="resources\images\icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="resources\images\icon.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="resources\fonts\PRU.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
